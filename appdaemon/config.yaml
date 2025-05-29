@@ -1,7 +1,7 @@
 ---
 name: AppDaemon Legacy
 version: dev
-slug: appdaemon
+slug: appdaemon-legacy
 description: Python Apps and Dashboard using AppDaemon 4.x for Home Assistant
 url: https://github.com/augard/addon-appdaemon
 codenotary: codenotary@frenck.dev
